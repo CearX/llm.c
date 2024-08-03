@@ -1,6 +1,6 @@
 Quick Start<br>
 1.clone仓库<br>
-git clone https://github.com/CearX/llm.c.git<br>
+git clone https://github.com/CearX/llm.rs.git<br>
 <br>
 2.下载文件<br>
 下载模型文件等1.5g<br>
