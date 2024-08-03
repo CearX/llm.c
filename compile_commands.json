@@ -1,0 +1,20 @@
+[
+    {
+        "arguments": [
+            "cc",
+            "-c",
+            "-Ofast",
+            "-Wno-unused-result",
+            "-Wno-ignored-pragmas",
+            "-Wno-unknown-attributes",
+            "-march=native",
+            "-fopenmp",
+            "-DOMP",
+            "-o",
+            "train_gpt2",
+            "train_gpt2.c"
+        ],
+        "directory": "/home/cearx/llm.c2/llm.co121",
+        "file": "train_gpt2.c"
+    }
+]
